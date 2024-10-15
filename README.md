@@ -2,7 +2,7 @@
 
 ## Description
 
-Le projet **PreviouslyOn** permet à l'utilisateur de regrouper et gérer l'historique de ses visionnages de séries et films. Nous avons utilisé l'API de **BetaSeries** pour récupérer et manipuler les données relatives aux séries et films, en s'appuyant sur la liste des fonctionnalités et requêtes fournies par BetaSeries.
+Projet de formation en groupe de 2: **PreviouslyOn** permet à l'utilisateur de regrouper et gérer l'historique de ses visionnages de séries et films. Nous avons utilisé l'API de **BetaSeries** pour récupérer et manipuler les données relatives aux séries et films, en s'appuyant sur la liste des fonctionnalités et requêtes fournies par BetaSeries.
 
 ## Technologies Utilisées
 
